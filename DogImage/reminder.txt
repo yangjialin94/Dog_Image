@@ -1,0 +1,9 @@
+// create node project
+npm init
+
+// install webpack --> node_modules folder
+npm install webpack webpack-cli --save-dev
+https://www.valentinog.com/blog/webpack-4-tutorial/
+
+// run
+npm run build
