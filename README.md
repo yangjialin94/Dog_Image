@@ -7,4 +7,4 @@ Simple webpack/babel node project to check on dog's images
 Used React and JSX
 
 ...............
-Git Branch Test
+Git B
